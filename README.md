@@ -14,9 +14,9 @@ PortFolio developed using Django Framework (version 1.4.5). Its aim is to be abl
 ### Get the latest development version
 
 ```bash
-git clone https://github.com/dubzzz/django-portfolio.git
+https://github.com/FaizanHassan7/portfolio_website.git
 ```
-Or get the [zipball from GitHub repository](https://github.com/dubzzz/django-portfolio/archive/master.zip).
+
 
 ### Setup the project
 
